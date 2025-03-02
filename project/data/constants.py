@@ -1,6 +1,6 @@
 
 class databases: 
-    CSV = r'.\project\data\imigrantes_canada.csv'
+    CSV = r".\project\data\imigrantes_canada.csv"
 
 
 class columns:

@@ -1,4 +1,4 @@
 from graficos import Graficos
 
 gf = Graficos()
-gf._graphic()
+gf.show_comparison()
